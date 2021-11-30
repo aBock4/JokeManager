@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JokeManager", "JokeManager\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMain", "TestMain\TestMain.csproj", "{D8600C7F-2B1D-46AC-BED5-429038B7F984}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jokeGUI", "jokeGUI\jokeGUI.csproj", "{6263E268-272B-408C-A2AB-30AE0DBB12DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D8600C7F-2B1D-46AC-BED5-429038B7F984}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8600C7F-2B1D-46AC-BED5-429038B7F984}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8600C7F-2B1D-46AC-BED5-429038B7F984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6263E268-272B-408C-A2AB-30AE0DBB12DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6263E268-272B-408C-A2AB-30AE0DBB12DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6263E268-272B-408C-A2AB-30AE0DBB12DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6263E268-272B-408C-A2AB-30AE0DBB12DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
